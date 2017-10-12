@@ -1,0 +1,14 @@
+
+//interes
+* Obtener lugar de interes /api/interestsite recibe 3 parametros, 3 opcionales, /api/interestsite?category=restaurantes&subcategory=china&filter=true (GET)
+//
+
+//Users
+
+* Login: El login se tiene que mandar 2 parametros, email y password /api/login. (POST)
+
+* Register: el Register recibe 4 parametros: email, password, avatar, gener. /api/registeruser. (POST).
+
+//
+
+
